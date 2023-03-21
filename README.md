@@ -6,9 +6,7 @@ This is an application that an employee can use to generate a random password ba
 
 The password include special characters. If you’re unfamiliar with these, see this [list of Password Special Characters from the OWASP Foundation](https://www.owasp.org/index.php/Password_special_characters).
 
-## Instructions
-
-The following image shows the web application's appearance and functionality:
+## The following image shows the web application's appearance and functionality:
 
 ![password generator demo](./assets/05-javascript-challenge-demo.png)
 
@@ -28,25 +26,21 @@ The following image shows the web application's appearance and functionality:
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
     ```md
     ![alt text](assets/images/screenshot.png)
-    ```
-
+   ```
+ 
 ## Credits
+ 
+JavaScript Full Course | JavaScript Tutorial For Beginners | JavaScript Training | Edureka
+hrefhttps://www.youtube.com/watch?v=o1IaduQICO0
 
-List your collaborators, if any, with links to their GitHub profiles.
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
 
 ## License
-
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+<https://fsf.org/>
 
 ---
 
