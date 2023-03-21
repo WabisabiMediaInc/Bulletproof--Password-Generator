@@ -2,9 +2,9 @@
 
 ## Overview
  
-This week’s challenge requires you to create an application that an employee can use to generate a random password based on criteria they’ve selected by modifying starter code. This app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean and polished user interface that is responsive, ensuring that it adapts to multiple screen sizes.
+This week’s challenge was to create an application that an employee can use to generate a random password based on criteria they’ve selected by modifying starter code. This app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean and polished user interface that is responsive, ensuring that it adapts to multiple screen sizes.
 
-The password can include special characters. If you’re unfamiliar with these, see this [list of Password Special Characters from the OWASP Foundation](https://www.owasp.org/index.php/Password_special_characters).
+The password include special characters. If you’re unfamiliar with these, see this [list of Password Special Characters from the OWASP Foundation](https://www.owasp.org/index.php/Password_special_characters).
 
 ## Instructions
 
@@ -24,56 +24,51 @@ The following image shows the web application's appearance and functionality:
       * Special characters ($@%&*, etc)
   * Code should validate for each input and at least one character type should be selected
   * Once prompts are answered then the password should be generated and displayed in an alert or written to the page
+# <Your-Project-Title>
 
-## Grading Requirements
+## Description
 
-This challenge is graded based on the following criteria: 
+Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
-### Technical Acceptance Criteria: 40%
+- What was your motivation?
+- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
+- What problem does it solve?
+- What did you learn?
 
-* Satisfies all of the above acceptance criteria plus the following:
+## Table of Contents (Optional)
 
-  * The challenge should not produce any errors in the console when you inspect it using Chrome DevTools.
+If your README is long, add a table of contents to make it easy for users to find what they need.
 
-### Deployment: 32%
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
 
-* Application deployed at live URL.
+## Installation
 
-* Application loads with no errors.
+What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
-* Application GitHub URL submitted.
+## Usage
 
-* GitHub repository that contains application code.
+Provide instructions and examples for use. Include screenshots as needed.
 
-### Application Quality: 15%
+To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-* Application user experience is intuitive and easy to navigate.
+    ```md
+    ![alt text](assets/images/screenshot.png)
+    ```
 
-* Application user interface style is clean and polished.
+## Credits
 
-* Application resembles the mock-up functionality provided in the challenge instructions.
+List your collaborators, if any, with links to their GitHub profiles.
 
-### Repository Quality: 13%
+If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
 
-* Repository has a unique name.
+If you followed tutorials, include links to those here as well.
 
-* Repository follows best practices for file structure and naming conventions.
+## License
 
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages.
-
-* Repository contains quality README file with description, screenshot, and link to deployed application.
-
-
-## Review
-
-You are required to submit the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
 
 ---
 
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
