@@ -25,7 +25,8 @@ https://raw.githubusercontent.com/WabisabiMediaInc/Bulletproof--Password-Generat
 # <Password Generator>
 
 The URL of the deployed application.
-
+https://wabisabimediainc.github.io/Bulletproof--Password-Generator/
+ 
 The URL of the GitHub repository. 
 https://github.com/WabisabiMediaInc/Bulletproof--Password-Generator
 
