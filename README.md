@@ -30,12 +30,13 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
     ```md
     ![alt text](assets/images/screenshot.png)
+ 
    https://raw.githubusercontent.com/WabisabiMediaInc/Bulletproof--Password-Generator/main/05-javascript-challenge-demo.png
  
 ## Credits
  
 JavaScript Full Course | JavaScript Tutorial For Beginners | JavaScript Training | Edureka
-hrefhttps://www.youtube.com/watch?v=o1IaduQICO0
+https://www.youtube.com/watch?v=o1IaduQICO0
 
 
 
