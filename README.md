@@ -8,7 +8,7 @@ The password include special characters. If you’re unfamiliar with these, see 
 
 ## The following image shows the web application's appearance and functionality:
 
-![password generator demo](./assets/05-javascript-challenge-demo.png)
+https://raw.githubusercontent.com/WabisabiMediaInc/Bulletproof--Password-Generator/main/05-javascript-challenge-demo.png
 
 
 * Generate a password when the button is clicked
@@ -24,15 +24,7 @@ The password include special characters. If you’re unfamiliar with these, see 
   * Once prompts are answered then the password should be generated and displayed in an alert or written to the page
 # <Password Generator>
 
-## Usage
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
- 
-   https://raw.githubusercontent.com/WabisabiMediaInc/Bulletproof--Password-Generator/main/05-javascript-challenge-demo.png
- 
 ## Credits
  
 JavaScript Full Course | JavaScript Tutorial For Beginners | JavaScript Training | Edureka
