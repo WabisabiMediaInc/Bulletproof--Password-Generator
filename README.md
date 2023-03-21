@@ -26,8 +26,8 @@ https://raw.githubusercontent.com/WabisabiMediaInc/Bulletproof--Password-Generat
 
 The URL of the deployed application.
 
-The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-
+The URL of the GitHub repository. 
+https://github.com/WabisabiMediaInc/Bulletproof--Password-Generator
 
 
 ## Credits
