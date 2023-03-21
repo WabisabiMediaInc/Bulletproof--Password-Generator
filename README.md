@@ -6,7 +6,8 @@ This is an application that an employee can use to generate a random password ba
 
 The password include special characters. If you’re unfamiliar with these, see this [list of Password Special Characters from the OWASP Foundation](https://www.owasp.org/index.php/Password_special_characters).
 
-## 
+## ## Installation
+
 The following image shows the web application's appearance and functionality:
 
 https://raw.githubusercontent.com/WabisabiMediaInc/Bulletproof--Password-Generator/main/05-javascript-challenge-demo.png
