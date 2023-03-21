@@ -1,4 +1,4 @@
-# Module 5 Challenge: Password Generator
+#  Password Generator
 
 ## A fully functional Password Generator project written in HTML,CSS and Javascript
  
